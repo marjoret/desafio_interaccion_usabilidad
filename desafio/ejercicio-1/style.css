@@ -1,0 +1,23 @@
+.navbar {
+    border: 1px solid black;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    margin: auto;
+}
+
+.logo object {
+    height: 80px;
+    padding: 10px;
+}
+
+.menu {
+    margin-left: auto;
+    display: flex;
+    padding: 20px;
+    align-self: center
+}
+
+.menu__item {
+    padding-right: 20px;
+}
